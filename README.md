@@ -2,7 +2,7 @@
   <img src="Screenshot%202026-01-22%20160434.png" alt="x7Raj Dark SD Banner" width="100%">
 </p>
 
-<h1 align="center">💀 SHΔDØW WORM-AI | x7Raj Dark SD 💀</h1>
+<h1 align="center">💀  | x7Raj Dark SD 💀</h1>
 📥 التثبيت والتشغيل (Installation & Usage)
 تحميل المستودع:
 
