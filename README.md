@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="[banner.png](https://github.com/Rajvetali/darksudan/blob/main/Screenshot%202026-01-22%20160434.png)" alt="SHΔDØW WORM-AI Banner" width="100%">
+  <img src="Screenshot%202026-01-22%20160434.png" alt="x7Raj Dark SD Banner" width="100%">
 </p>
+
+<h1 align="center">💀 SHΔDØW WORM-AI | x7Raj Dark SD 💀</h1>
 📥 التثبيت والتشغيل (Installation & Usage)
 تحميل المستودع:
 
