@@ -14,7 +14,7 @@ cd darksudan
 
 Bash
 
-python3 shadow_worm.py
+python3 Dark-sudan.py
 تحديد الهدف: عند ظهور واجهة القيادة، قم بإدخال رابط الموقع المستهدف (Target URL) عند خانة $ └─.
 
 ⚙️ تخصيص القوة (Configuration)
